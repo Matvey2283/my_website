@@ -1,0 +1,76 @@
+/* Добавьте стили в ваш style.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Пользовательские стили для кнопок */
+.btn-new {
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    background: #F9A825;
+    box-shadow: 0 5px 0 #F57C00;
+}
+
+.btn-new:hover {
+    background: #F57C00;
+    box-shadow: none;
+    position: relative;
+    top: 5px;
+}
+
+/* Стили для иконок в кнопках */
+.btn-icon img {
+    width: 20px;
+    height: 20px;
+}
+
+/* Стили для поисковой строки */
+.search-box {
+    width: 200px;
+}
+
+/* Добавьте стили в ваш style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Yellow Section Styles */
+.bg-yellow {
+    background-color: #F9A825;
+}
+
+/* Carousel Styles */
+.carousel-inner img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Footer Styles */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Стили для нового блока */
+.bg-white {
+    background-color: #fff; /* Цвет фона блока */
+}
+
+.text-dark {
+    color: #333; /* Цвет текста */
+}
+
+/* Стили для подчеркивания */
+.yellow-underline {
+    height: 4px;
+    background-color: #f9a825; /* Цвет подчеркивания */
+    margin-top: 20px; /* Расстояние от текста до подчеркивания */
+}
+
+/* Остальные стили оставьте по умолчанию или добавьте по необходимости */
